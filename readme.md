@@ -75,6 +75,15 @@ http://www.studywithanis.com
 
 
 ## Image Syntax  
-![Hello Ramim]
+
+<img src=" C\\Users\\shram\\Desktop\\stat.jpg" width ="400" />  
+
+## Table Syntax  
+| NAME | Email|
+|---|---|
+|Sabbir|shramim13@gamil.com|
+|Sabbir|shramim13@gamil.com|
+|Sabbir|shramim13@gamil.com|  
+
 
 
