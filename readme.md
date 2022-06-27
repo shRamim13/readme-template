@@ -34,6 +34,7 @@ __BOLD__
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+    cout<<"Hi, Ramim"<<endl;
     cout<<"Are you Ready ?";  
 }
 ```  
