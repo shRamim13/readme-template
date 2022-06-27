@@ -1,7 +1,7 @@
 <!--markdown tutorial-->
 Sabbir Hossen Ramim </br>
 Shahajalal University of Science and Technology  
-cse  
+Computer Science and Engineering 
 
 ---
 # Sabbir Hossen Ramim  
